@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"html"
+//	"html"
 	"strings"
 	"sync"
 )
